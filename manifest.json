@@ -1,8 +1,8 @@
 {
   "id": "org.mycustommoviestream",
   "version": "1.0.0",
-  "name": "My Personal Movie Vault",
-  "description": "Custom stream for Mension House Mallesh",
+  "name": "My Videos",
+  "description": "Custom stream links",
   "resources": ["stream"],
   "types": ["movie"],
   "idPrefixes": ["tt"]
