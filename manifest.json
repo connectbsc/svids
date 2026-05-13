@@ -1,9 +1,9 @@
 {
-  "streams": [
-    {
-      "name": "Personal Cloud",
-      "title": "Mension House Mallesh (2026)\n720p Telugu HQ HDRip",
-      "url": "cosmic-crab.buzz"
-    }
-  ]
+  "id": "org.mycustommoviestream",
+  "version": "1.0.0",
+  "name": "My Personal Movie Vault",
+  "description": "Custom stream for Mension House Mallesh",
+  "resources": ["stream"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"]
 }
